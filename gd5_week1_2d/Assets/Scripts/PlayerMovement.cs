@@ -5,6 +5,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public float speed = 5f;
     int count = 5;
+    float x = 5f;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
